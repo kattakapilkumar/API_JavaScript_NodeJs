@@ -9,3 +9,5 @@ Getting started - npm init -y
 ### npm install --save express
 
 +git checkout -b api     (creating new branch)
+
++https://github.com/github/gitignore/blob/master/Node.gitignore
