@@ -7,3 +7,5 @@ Getting started - npm init -y
 '''
 
 ### npm install --save express
+
++git checkout -b api     (creating new branch)
